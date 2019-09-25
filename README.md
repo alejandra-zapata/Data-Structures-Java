@@ -1,2 +1,2 @@
 # Data-structures
-Projects built during Data Structures class / Fall 2019
+Projects I'm building on a Java course in Data Structures ~ Fall 2019
