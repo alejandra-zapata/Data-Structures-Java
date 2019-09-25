@@ -1,11 +1,3 @@
-/*
- * Project mates:
- * Anara Myrazbekova W78019880
- * Wei Bin Yu W10479185
- * Fasika Abera W78028386
- * Alejandra Zapata @00302309
- * */
-
 import java.util.*;
 
 public class Trio <T extends Comparable<T>> {
