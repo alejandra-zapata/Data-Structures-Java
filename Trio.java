@@ -1,3 +1,4 @@
+//A class that implements generics and the Comparable interface. 
 import java.util.*;
 
 public class Trio <T extends Comparable<T>> {
