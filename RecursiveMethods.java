@@ -1,3 +1,4 @@
+//A class with different methods that interact recursively with strings and with arrays of integers. 
 
 public class RecursiveMethods {
 	
